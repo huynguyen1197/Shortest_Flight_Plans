@@ -18,4 +18,8 @@ public class Stack {
 	public boolean isEmpty() {
 		return list.getSize() == 0;
 	}
+	
+	public mult(int a, int b) {
+		return a*b;
+	}
 }
